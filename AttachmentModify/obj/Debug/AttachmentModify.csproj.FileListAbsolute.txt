@@ -1,0 +1,11 @@
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Debug\Microsoft.Exchange.Data.Common.dll
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Debug\Microsoft.Exchange.Data.Transport.dll
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Debug\Microsoft.Exchange.Data.Common.xml
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Debug\Microsoft.Exchange.Data.Transport.xml
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Debug\Newtonsoft.Json.dll
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Debug\Newtonsoft.Json.pdb
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Debug\Newtonsoft.Json.xml
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Debug\QuanShi.MessageModify.dll
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Debug\QuanShi.MessageModify.pdb
+E:\VSProject\AttachmentModify\AttachmentModify\obj\Debug\QuanShi.MessageModify.dll
+E:\VSProject\AttachmentModify\AttachmentModify\obj\Debug\QuanShi.MessageModify.pdb

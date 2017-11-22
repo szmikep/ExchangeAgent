@@ -1,0 +1,8 @@
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Release\AttachmentModify.dll
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Release\AttachmentModify.pdb
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Release\Microsoft.Exchange.Data.Common.dll
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Release\Microsoft.Exchange.Data.Transport.dll
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Release\Microsoft.Exchange.Data.Common.xml
+E:\VSProject\AttachmentModify\AttachmentModify\bin\Release\Microsoft.Exchange.Data.Transport.xml
+E:\VSProject\AttachmentModify\AttachmentModify\obj\Release\AttachmentModify.dll
+E:\VSProject\AttachmentModify\AttachmentModify\obj\Release\AttachmentModify.pdb
